@@ -9,4 +9,4 @@ Then, run `get_ids.js` until it doesn't output anything. Games often have an abs
 ## Updating the list
 In order to keep the list relevant, it should be updated every once in a while (every major update should be fine). Basically, you need to repeat the previous step, but it will me much faster since the majority of items are already fetched.
 
-__The list present here contains all CS2 items as for 15.03.2024__
+__The list present here contains all CS2 items as for 19.06.2024__
